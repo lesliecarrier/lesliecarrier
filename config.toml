@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://lesliecarrier.com/"
+baseurl = "https://www.lesliecarrier.com/"
 languageCode = "en-us"
 title = "Leslie Carrier"
 theme = "hugo-freelancer-theme"
