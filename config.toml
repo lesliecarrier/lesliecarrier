@@ -26,7 +26,7 @@ theme = "hugo-freelancer-theme"
     # - send a dummy email youself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    email = "ostrichzero@gmail.com"
+    email = "lesliecarrierart@gmail.com"
 
     # Custom assets
 	custom_css = []
@@ -40,7 +40,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "profile.png"
         name = "Leslie Carrier"
-        subtitle = "Graphic Designer - Cartoonist - Illustrator"
+        subtitle = "Graphic Design • Illustration"
 
 
     [params.portfolio]
@@ -70,13 +70,13 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
-        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
+        left = "I'm a graphic designer with a background in software engineering. I've always had a passion for cartooning which I often express through drawings of terrible reality TV shows. When I studied graphic design, one of my favorite things was to make koala-themed projects. Hope you have a high-koalaty day!"
+        right = '<img src="img/carrier_website.png" class="img-responsive img-centered" alt="Leslie Carrier">'
 
-        [params.about.button]
-            text = "Download theme"
-            link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
-            icon = "download"
+        #[params.about.button]
+            #text = "Download theme"
+            #link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
+            #icon = "download"
 
 
     [params.contact]
@@ -104,7 +104,7 @@ theme = "hugo-freelancer-theme"
 
 
     [params.footer]
-        copyright = "©2017 Leslie Carrier"
+        copyright = "©2018 Leslie Carrier"
 
         [params.footer.location]
             title = ""
@@ -117,16 +117,17 @@ theme = "hugo-freelancer-theme"
             # for more icons. The icons are represented by their corresponding
             # CSS class.
             [[params.footer.social.networks]]
+                icon = "fa-instagram"
+                link = "//instagram.com/lesliecarrierart"
+
+            [[params.footer.social.networks]]
                 icon = "fa-facebook"
-                link = "//facebook.com/ostrichzero"
+                link = "//facebook.com/lesliecarrierart"
 
             [[params.footer.social.networks]]
                 icon = "fa-twitter"
-                link = "//twitter.com/OstrichZero"
+                link = "//twitter.com/leslieacarrier"
 
-            [[params.footer.social.networks]]
-                icon = "fa-instagram"
-                link = "//instagram.com/ostrichzero"
 
 
         [params.footer.credits]
