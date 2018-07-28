@@ -70,8 +70,8 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "I'm a graphic designer with a background in software engineering. I have two Bachelors degrees in Visual Art and Computer Science. In the last two years, I went back to school to earn my graphic design certification. I've always had a passion for cartooning which I often express through drawing folks from reality TV shows. When I studied graphic design, one of my favorite things was to make koala-themed projects. Hope you have a high-koalaty day!"
-        right = '<img src="img/carrier_website.png" class="img-responsive img-centered" alt="Leslie Carrier">'
+        left = "I'm a graphic designer with a background in software engineering. I've always had a passion for cartooning which I often express through drawing folks from reality TV shows. Thanks for visiting!"
+        right = '<img src="img/carrier_website2.png" class="img-responsive img-centered" alt="Leslie Carrier">'
 
         #[params.about.button]
             #text = "Download theme"
