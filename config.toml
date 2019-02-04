@@ -50,7 +50,7 @@ theme = "hugo-freelancer-theme"
         # For more informtion take a look at the README.
 
         [params.portfolio.illustrations]
-            title = "Illustrations"
+            title = "Illustration"
 
             [params.portfolio.illustrations.modal]
                 client = "Client"
