@@ -4,7 +4,6 @@ languageCode = "en-us"
 title = "Leslie Carrier"
 theme = "hugo-freelancer-theme"
 
-
 [params]
 
     # You can use Markdown syntax for urls [text](//url.to/source) for
@@ -79,6 +78,10 @@ theme = "hugo-freelancer-theme"
             #icon = "download"
 
 
+    [params.blog]
+        theme = "hamburg"
+
+
     [params.contact]
         title = "Contact"
 
@@ -104,7 +107,7 @@ theme = "hugo-freelancer-theme"
 
 
     [params.footer]
-        copyright = "©2018 Leslie Carrier"
+        copyright = "©2019 Leslie Carrier"
 
         [params.footer.location]
             title = ""
