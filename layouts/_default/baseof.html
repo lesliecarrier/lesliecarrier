@@ -4,11 +4,11 @@
         {{ partial "head.html" . }}
     </head>
     <body id="page-top" class="index">
+        {{ block "navigation" . }}
 
-
-        {{ partial "nav.html" . }}
-
-        This is the default list view for blog
-
+        {{ end }}
+        {{ block "main" . }}
+            
+        {{ end }}
     </body>
 </html>

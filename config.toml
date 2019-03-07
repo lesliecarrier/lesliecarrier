@@ -31,6 +31,7 @@ theme = "hugo-freelancer-theme"
 	custom_css = []
 	custom_js  = []
 
+
     [params.navigation]
         brand = "Leslie Carrier"
 
@@ -78,8 +79,7 @@ theme = "hugo-freelancer-theme"
             #icon = "download"
 
 
-    [params.blog]
-        theme = "hamburg"
+
 
 
     [params.contact]
@@ -93,10 +93,6 @@ theme = "hugo-freelancer-theme"
         [params.contact.form.email]
             text = "Email Address"
             error = "Please enter your email address."
-
-        [params.contact.form.phone]
-            text = "Phone Number"
-            error = "Please enter your phone number."
 
         [params.contact.form.message]
             text = "Message"

@@ -1,0 +1,32 @@
+<article>
+<h1 class="li-h1"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+<div class="clearfix">
+    <div class="post-date pull-left">
+    <span class="li-small">
+          
+        Posted on 
+        {{ dateFormat "Monday, Jan 2, 2006" .Date }}
+
+    </span>
+    </div>
+    <br />
+    <div class="pull-left">
+
+      {{ if (isset .Params "summary") }}
+        {{ markdownify .Params.Summary }}
+      {{ else }}
+        {{ .Summary }}
+      {{ end }}
+
+    </div>
+</div>
+
+<div class="read-more-container">
+    <a class="btn btn-primary" href="{{ .Permalink }}">
+
+    <div>
+        Read more <span aria-hidden="true">&rarr;</span>
+    </div>
+    </a>
+</div>
+</article>

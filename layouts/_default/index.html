@@ -1,0 +1,17 @@
+{{ define "navigation" }}
+    {{ partial "nav.html" . }}
+{{ end }}
+
+
+{{ define "main" }}
+        {{ partial "header.html" . }}
+        {{ partial "portfolio-grid-graphic-design.html" . }}
+        {{ partial "portfolio-grid-illustrations.html" . }}
+        {{ partial "about.html" . }}
+        {{ partial "contact.html" . }}
+
+        {{ partial "footer.html" . }}
+        {{ partial "modals_illustrations.html" . }}
+        {{ partial "modals_graphicdesign.html" . }}
+        {{ partial "js.html" . }}
+{{ end }}
