@@ -1,6 +1,6 @@
 ---
 title: Give Peeps a Chance
-date: 2019-04-13
+date: 2019-04-15
 author: Leslie
 summary: "When Easter's on the way, the Peeps come out to play with some...questionable flavors. Fortunately for you, I put these to the test so you don't have to!"
 tags: ["peeps","candy","taste test"] 
