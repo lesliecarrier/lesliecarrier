@@ -1,16 +1,11 @@
 <article>
 <h1 class="li-h1"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
 <div class="clearfix">
-    <div class="post-date pull-left">
-    <span class="li-small">
-          
+    <div class="post-date text-left" style="padding-bottom:5px;">
         Posted on 
-        {{ dateFormat "Monday, Jan 2, 2006" .Date }}
-
-    </span>
+        {{ dateFormat "January 2, 2006" .Date }}
     </div>
-    <br />
-    <div class="pull-left">
+    <p class="text-left">
 
       {{ if (isset .Params "summary") }}
         {{ markdownify .Params.Summary }}
@@ -18,7 +13,7 @@
         {{ .Summary }}
       {{ end }}
 
-    </div>
+    </p>
 </div>
 
 <div class="read-more-container">

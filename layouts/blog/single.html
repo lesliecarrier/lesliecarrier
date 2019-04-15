@@ -4,53 +4,78 @@
 {{ define "main" }}
     <header>
         <div class="container">
-            <div class="col-lg-12 text-center">
-                <h2>{{.Title}}</h2>
-            </div>
-
-
-
-            <div class="article-list">
-                <div class="row">
-                    <div class="col-lg-6 col-lg-offset-2">
-
-                        {{ if (isset .Params "noshowdate")  }}
-                        {{ else }}
-                            <div class="post-date">
-                                <span class="small">
-                                    Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}
-                                </span>
-                            </div>
-                        {{ end }}
-                        {{ markdownify .Content }}
-                    </div>
+            <div class="row">                
+                <div class="col-lg-8 col-lg-offset-2 text-left">
+                    <h2>{{.Title}}</h2>
                 </div>
             </div>
 
-            
-              
+            <div class="article-list">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 text-left">
+
+                        {{ if (isset .Params "noshowdate")  }}
+                        {{ else }}
+                            <div class="post-date">                               
+                                Posted on {{ dateFormat "January 2, 2006" .Date }}                               
+                            </div>
+                        {{ end }}
+                        {{ markdownify .Content }}
+
+
+                        <!-- Prev/Next post buttons -->
+                        {{ if .Next }}
+                            <a class="btn btn-primary btn-older-posts pull-right" href="{{ .Next.Permalink }}">
+                            <div>                            
+                                Newer <span aria-hidden="true">&rarr;</span>
+                            </div>
+                            </a>
+                        {{ else }}
+                            <a class="btn btn-primary btn-older-posts disabled pull-right" href="#">
+                            <div>
+                                Newer <span aria-hidden="true">&rarr;</span>
+                            </div>
+                            </a>
+                        {{ end }}
+                        {{ if .Prev }}
+                            <a class="btn btn-primary btn-newer-posts pull-left" href="{{ .Prev.Permalink }}">
+                            <div>
+                                <span aria-hidden="true">&larr;</span> Older
+                            </div>
+                            </a>
+                        {{ else }}
+                            <a class="btn btn-primary btn-newer-posts disabled pull-left" href="#">
+                            <div>
+                                <span aria-hidden="true">&larr;</span> Older
+                            </div>
+                            </a>
+                        {{ end }}                       
+
+
+                    </div>
+                </div>
+            </div>
        
            
-
-            <div class="pull-right">
-        
+            <div class="row">
+                <div class="col-lg-6 col-lg-offset-2 text-left">
+                  
+                    <h3>Tags</h3>
                     {{ $taxo := "tags" }} <!-- Use the plural form here -->
-                    
-                        {{ range .Param $taxo }}
-                       
-                            {{ $name := . }}
-                            {{ with $.Site.GetPage "section" (printf "/%s/%s" $taxo ($name | urlize)) }}
-                 
-                                <a class="btn btn-primary" href="{{.Permalink}}" style="float:none;">
-                                    <div>{{ $name }}</div>
-                                </a> 
-
-                            {{ end }}
+                            
+                    {{ range .Param $taxo }}
+                            
+                        {{ $name := . }}
+                        {{ with $.Site.GetPage "section" (printf "/%s/%s" $taxo ($name | urlize)) }}
+                        
+                            <a class="btn btn-primary" href="{{.Permalink}}" style="float:none; margin-top: 5px;">
+                                <div>{{ $name }}</div>
+                            </a> 
+                              
                         {{ end }}
-                
-
-
+                    {{ end }}    
                     
+                </div>
             </div>
 
 

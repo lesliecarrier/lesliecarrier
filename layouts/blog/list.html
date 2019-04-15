@@ -4,10 +4,12 @@
 {{ define "main" }}
 
 <header>
-        <div class="container" style="background:green; min-height: 100vh;">
+        <div class="container" style="min-height: 100vh;">
 
-            <div class="col-lg-12 text-center">
-                <h2>{{ .Title }}</h2>
+            <div class="col-lg-12">
+                <h1>The Leslie Carrier Art Blog</h1>
+                <h4 class="blog_phrase">Life isn’t all tracking and kerning, but it should be!</h4>
+                <!--<p style="font-weight:100; color:#333333;">Art <span style="color:#ee4280;">•</span> Graphic Design <span style="color:#ee4280;">•</span> Fun</p>-->
             </div>
 
             <div class="article-list">
@@ -16,14 +18,11 @@
             
                
                 <div class="row">
-                    <div class="col-lg-6 col-lg-offset-2">
-                  
-                            {{ .Render "li" }}
-                      
+                    <div class="col-lg-6 col-lg-offset-3">                  
+                        {{ .Render "li" }}                      
                     </div>
                 </div>
-                {{ end }}
-        
+                {{ end }}        
             </div>
         </div>
         </header>
