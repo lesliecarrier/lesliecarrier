@@ -11,17 +11,17 @@ categories: ["fun"]
 I've never been a huge fan of Peeps, but lately I've come to love their recent branding and marketing ploys. Upon my first visit to their website, I was suddenly face-to-face with this assertive full-sized statement (it was actually just a cute lil' graphic) on my screen: 
 
 
-<img src="http://static.ostrichzero.com/images/blog/post001/PeepsBreakfast.jpg" class="img-responsive img-centered" alt="Peeps for breakfast!">
+<img src="https://static.ostrichzero.com/images/blog/post001/PeepsBreakfast.jpg" class="img-responsive img-centered" alt="Peeps for breakfast!">
 ##### *The Cookie Crisp: "Cookies for Breakfast?!" campaign suddenly pales in comparison*
 
 I soon found out that Peeps come in all new bizarre flavors. Have I been out of touch for that long?! Just to name a few, here are some of the mysterious flavors: Pancakes & Syrup, Blue Raspberry, Fruit Punch, Party Cake, and much more! I have to admit, they were wise to use the chicks as the weird flavor vessels rather than the bunnies. Everyone knows that the chicks are the personality winners over the bunnies because their dead eyes and deflated droopy "beaks" stare back at you while you consume their friends.
 
-<img src="http://static.ostrichzero.com/images/blog/post001/PeepsDisplay2.jpg" class="img-responsive img-centered" alt="Peeps flavors">
+<img src="https://static.ostrichzero.com/images/blog/post001/PeepsDisplay2.jpg" class="img-responsive img-centered" alt="Peeps flavors">
 ##### *The array of flavors in this taste test*
 
 Let’s begin this Peeps-tasting journey and maybe you can use it as a guide to select your next favorite flavor…or just use it as a precautionary tale.
 
-<img src="http://static.ostrichzero.com/images/blog/post001/maple.png" class="img-responsive img-centered" alt="Pancakes and Syrup Peeps">
+<img src="https://static.ostrichzero.com/images/blog/post001/maple.png" class="img-responsive img-centered" alt="Pancakes and Syrup Peeps">
 
 ### Pancakes & Syrup
 
@@ -33,7 +33,7 @@ The taste also reminds me of that '90s Waffle Crisp cereal.
 
 On a positive note, it wasn’t as terrible as I initially expected! They are definitely worth a try so that you can be equipped with a fun conversation starter during awkward situations.
 
-<img src="http://static.ostrichzero.com/images/blog/post001/watermelon.png" class="img-responsive img-centered" alt="Watermelon Peeps">
+<img src="https://static.ostrichzero.com/images/blog/post001/watermelon.png" class="img-responsive img-centered" alt="Watermelon Peeps">
 
 ### Sour Watermelon
 
@@ -43,7 +43,7 @@ However, the taste was not as strong as the smell (and this is a good thing, as 
 
 To make matters even more fun, I was surprised by a creative little visual. While the Peeps on the outside were green, the inside was bright pink. Wow they had me fooled, for a second I thought I was eating real fruit with that clever visual! Nice try Peeps…
 
-<img src="http://static.ostrichzero.com/images/blog/post001/blue.png" class="img-responsive img-centered" alt="Blue Raspberry Peeps">
+<img src="https://static.ostrichzero.com/images/blog/post001/blue.png" class="img-responsive img-centered" alt="Blue Raspberry Peeps">
 
 ### Blue Raspberry
 
@@ -51,7 +51,7 @@ This one greeted me with a strong blue raspberry scent that was also reminiscent
 
 Wow! On first bite, the taste is a very pleasant blue raspberry flavor, true to its description. I can compare the taste to those blue raspberry candy canes that were left behind after everyone took the better multicolored cherry-flavored ones.
 
-<img src="http://static.ostrichzero.com/images/blog/post001/cottoncandy.png" class="img-responsive img-centered" alt="Cotton Candy Peeps">
+<img src="https://static.ostrichzero.com/images/blog/post001/cottoncandy.png" class="img-responsive img-centered" alt="Cotton Candy Peeps">
 
 ### Cotton Candy
 
@@ -59,7 +59,7 @@ Wow. I thought I was going to have power through this one as I despise fake cott
 
 The overall taste matched exactly like cotton candy and the soft airy texture of the Peep definitely added to an authentic cotton candy-eating experience. Well done, Peeps!
 
-<img src="http://static.ostrichzero.com/images/blog/post001/partycake.png" class="img-responsive img-centered" alt="Party Cake Peeps">
+<img src="https://static.ostrichzero.com/images/blog/post001/partycake.png" class="img-responsive img-centered" alt="Party Cake Peeps">
 
 ### Party Cake
 
@@ -75,7 +75,7 @@ The Vanilla Crème was the last in line for the Peeps taste test. In hindsight, 
 
 Whoa wait- want MORE vanilla crème? Well how about some rich vanilla frosting-like substance laced on the bottom of the Peep! While I appreciated the interesting texture of the hardened vanilla crunch against the marshmallow, I still couldn’t get over the looming sugar coma feeling. I thought this Peep had a stronger party cake flavor than the actual Party Cake Peeps. However, after finishing off this Peep, I pretty much surpassed my Peeps tolerance level. Luckily it was the last strange flavor to try. So I say no thanks to this Peeps flavor. I’m 90% sure this is a biased opinion because I was on Peeps-overload by then, but I would skip this one unless you crave overpowering sweetness and want to feel your veins vibrate.
 
-<img src="http://static.ostrichzero.com/images/blog/post001/samplepeeps.jpg" class="img-responsive img-centered" alt="Goodnight Peeps">
+<img src="https://static.ostrichzero.com/images/blog/post001/samplepeeps.jpg" class="img-responsive img-centered" alt="Goodnight Peeps">
 ##### *Goodnight sugar particles left all over my table. Goodnight stomach as I hold you in a cradle. Goodnight Peeps.*
 
 Well there you have it, a full array of this year’s release of outlandish Peeps flavors. There are still many other weird flavors of this season to try, but I just couldn’t find them. I’d like to thank my husband and my friend Adriana for going on this Peeps-tasting journey with me and sacrificing their Monday night and stable stomachs. Enjoy!
