@@ -36,10 +36,20 @@ Strain into prepared glass and garnish with the Marshmallow PEEPS®. Serve immed
 
 All right, now that you’ve checked it out, here’s my experience with this fun creation:
 
+Hm, why was the vodka cherry-flavored instead of marshmallow-flavored? I understand if that’s a tough flavor to find, but I couldn’t find cherry vodka either. To be fair, I was only looking in a local grocery store and was too lazy to drive to Bevmo in a town over. To solve this problem, I substituted raspberry  vodka in place of cherry. Don’t ask me why they have an obscure flavor like raspberry available and not basic cherry.
+
+Three ounces of half and half: the local grocery store strikes again by only having the non fat half and half in stock. Thanks…
+
+Grenadine: how about no-a-dine. I get that this was to create that signature Peeps pink color, but at least the recipe only calls for a dash of it. Grenadine just makes me think of overly sweet drinks that go down too easily only to lead to not so sweet choices. 
+
+Triple Sec: a common staple of many vodka-based drinks, you can’t go too wrong here. Even the cocktail maestro of Vanderpump Rules, Tom Sandoval agrees. When in doubt, Triple Sec it out.
+
+You probably figured out by now that the Peep is a garnish and not an ingredient. I’m okay with that. Plus you will need the Peep garnish to get you through this cocktail and help remind you that you’re drinking Peeps juice.
+
 <img src="https://static.ostrichzero.com/images/blog/peeps_cocktail/PeepsCocktail1.jpg" class="img-responsive img-centered" alt="Peeps Cocktail">
 ##### *While aesthetically pleasing, this will not distract me from experiencing how “meh” it tastes.*
 
-What’s the verdict of this cocktail? Well…long story short, my friend and I didn’t finish it. We dumped it immediately and the rosé faithfully waited for us in the fridge as if to say: “I told you so.”
+So what’s the verdict of this cocktail? Well…long story short, my friend and I didn’t finish it. We dumped it immediately and the rosé faithfully waited for us in the fridge as if to say: “I told you so.”
 
 The cocktail turned out to be a weak watery milkshake martini. We actually enjoyed eating the Peep garnish more than drinking the Peeps juice. That said, I do acknowledge that I did not make the cocktail true to the recipe, so this is more of a critique of my sad cocktail-making skills rather than the original recipe.
 
@@ -48,8 +58,10 @@ The cocktail won some bonus points for looking like a fun $17 cocktail you get i
 <img src="https://static.ostrichzero.com/images/blog/peeps_cocktail/PeepsChocktail2.jpg" class="img-responsive img-centered" alt="Peeps Cocktail">
 ##### *Here we are oblivious to the future disappointment of this cocktail.*
 
-Possible tweaks to try out next time:
-- Sub out half and half for heavy cream or Strawberry flavored Baileys. If you go with Strawberry Baileys, you would no longer need the grenadine to provide the pink color.
-- Instead of cherry vodka, I’m curious how marshmallow vodka would mix with this. If not, then go with strawberry vodka
+Possible adjustments for next time:
+
+Sub out half and half for heavy cream or Strawberry flavored Baileys. If you go with Strawberry Baileys, you would no longer need the Grenadine to provide the pink color.
+
+Instead of cherry vodka, I’m curious how marshmallow vodka would mix with this. If not, then go with strawberry vodka
 
 Overall, I learned something important: always use the correct ingredients...or just trust your gut.
