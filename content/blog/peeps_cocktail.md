@@ -10,7 +10,7 @@ categories: ["fun"]
 
 I wanted to get this one in before the holiday because we can all appreciate a pregame cocktail before the sudden onslaught of relatives to entertain! First, rip open a new box of Peeps that you had reserved for the Easter Bunny. Don’t worry, out of all the other amazing Easter candy out there, your kids will not notice a box of Peeps missing. They may even thank you later (hey, it’s a long shot because kids usually never thank their parents for anything, but Peeps have worked miracles before!).
 
-Anyway, to help give that ham an extra squeak to the slice or to grant you the false confidence that you can decorate a lamb cake worthy of a Pinterest board, check out this fun Peeps cocktail recipe for some inspiration:
+Anyway, to help give that ham an extra squeak to the slice or to grant you the false confidence that you can decorate a lamb cake worthy of a Pinterest board, check out this fun Peeps cocktail recipe for some inspiration: 
 
 
 <img src="https://static.ostrichzero.com/images/blog/peeps_cocktail/peepswebsite.jpg" class="img-responsive img-centered" alt="Peeps Cocktail">
