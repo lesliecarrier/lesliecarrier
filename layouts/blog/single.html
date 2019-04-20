@@ -24,8 +24,8 @@
 
 
                         <!-- Prev/Next post buttons -->
-                        {{ if .Next }}
-                            <a class="btn btn-primary btn-older-posts pull-right" href="{{ .Next.Permalink }}">
+                        {{ if .Prev }}
+                            <a class="btn btn-primary btn-older-posts pull-right" href="{{ .Prev.Permalink }}">
                             <div>                            
                                 Newer <span aria-hidden="true">&rarr;</span>
                             </div>
@@ -37,8 +37,8 @@
                             </div>
                             </a>
                         {{ end }}
-                        {{ if .Prev }}
-                            <a class="btn btn-primary btn-newer-posts pull-left" href="{{ .Prev.Permalink }}">
+                        {{ if .Next }}
+                            <a class="btn btn-primary btn-newer-posts pull-left" href="{{ .Next.Permalink }}">
                             <div>
                                 <span aria-hidden="true">&larr;</span> Older
                             </div>
