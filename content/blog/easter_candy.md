@@ -54,7 +54,7 @@ Remember those Ferrero Rocher chocolates that look like those scary-looking spik
 
 Lindt always goes above and beyond with their festive foil wrappers and molded chocolate shapes. However, they really outdid themselves with this specific design: a semi-sarcastic duck/chick that’s just over it. The expression says it all: is it Easter clearance season yet? Unravel the crimped orange paper ribbon and you will be greeted with the usual smooth excellent chocolate of Lindt in the form of a hallow chick-shaped mold. I would choose this over chocolate bunnies any day!
 
-<img src="https://static.ostrichzero.com/images/blog/easter_candy/partycake.png" class="img-responsive img-centered" alt="Peeps">
+<img src="https://static.ostrichzero.com/images/blog/post001/partycake.png" class="img-responsive img-centered" alt="Peeps">
 
 ### Peeps
 
