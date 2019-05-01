@@ -2,7 +2,7 @@
 title: How to Affix a Shipping Label
 date: 2019-04-30
 author: Leslie
-summary: "Tired of leaving it up to fate whether or not you properly stick a self adhesive shipping label? Check out my solution here!"
+summary: "Tired of leaving it up to fate of whether or not you properly stick a self adhesive shipping label? Check out my solution here!"
 tags: ["shipping label","shipping","etsy","packaging"] 
 categories: ["etsy"]
 ---
