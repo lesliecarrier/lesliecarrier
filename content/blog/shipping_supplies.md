@@ -42,7 +42,8 @@ Shop for clear plastic sleeves, bags, etc. <a href="https://www.clearbags.com" t
 
 <img src="https://static.ostrichzero.com/images/blog/shipping_supplies/stationery.jpg" class="img-responsive img-centered" alt="Stationery">
 
-One of the benefits of selling on Etsy (or if you run your own online store) is that you package everything yourself and can include any personal touches with each order. I designed my own Thank You stationery and use it for hand-written notes with each order. Because my printer is a hot mess, I get these printed and cut at Office Depot.
+One of the benefits of selling on Etsy (or if you run your own online store) is that you package everything yourself and can include any personal touches with each order. I designed my own Thank You stationery and use it for hand-written notes. Because my printer can't be trusted, I get these printed and cut at Office Depot.
+
 I add some finishing touches to each order by applying a sticker of my logo to the back of the envelope. Again, not necessary, but it adds a fun little personal touch. I’ve seen other Etsy stores get super creative with applying their branding to orders, whether it be stickers, custom stamps, postcards, etc. I order my 1.5 inch logo stickers from <a href="https://www.moo.com/" target="_blank" style="color:#ee4280">Moo</a>. Moo prints high quality stationery products with your own custom designs. 
 
 I hope this article helped provide you with some useful shipping supply tips! I’d love to hear from you if you had any other suggestions, just send a message from the contact form on the home page! (I’m hoping to have a comments feature integrated here soon.)
