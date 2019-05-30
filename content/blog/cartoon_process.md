@@ -7,7 +7,7 @@ tags: ["art","cartooning","drawing"]
 categories: ["art"]
 ---
 
-Making a new cartoon for me involves a combination of both traditional and digital art techniques. It starts off with the classic pencil on paper drawing, inking by hand, then followed by coloring digitally. Here are the steps on how I create a new cartoon:
+Making a new cartoon for me involves a combination of both traditional and digital art techniques. It starts off with the classic pencil on paper drawing, inking by hand, then followed by coloring digitally. I'll step through the process of creating this Real Housewives of Orange County cartoon:
 
 ### 1) Draw some practice sketches
 
