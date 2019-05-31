@@ -1,7 +1,7 @@
 ---
 title: Top Easter Candy Picks
 date: 2019-04-22
-author: Leslie
+author: Leslie Carrier
 summary: "Easter may have already come and gone, but that doesn't mean you can't still enjoy the leftover candy! Check out my top Easter candy picks!"
 tags: ["peeps","candy","easter","cadbury"] 
 categories: ["fun"]

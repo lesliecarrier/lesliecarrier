@@ -1,7 +1,7 @@
 ---
 title: Favorite Shipping Supplies
 date: 2019-05-06
-author: Leslie
+author: Leslie Carrier
 summary: "Check out my recommendations of supplies I love to use when shipping from my Etsy store!"
 tags: ["shipping label","shipping","etsy","packaging","favorites", "shipping supplies"] 
 categories: ["etsy"]

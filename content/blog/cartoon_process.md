@@ -1,7 +1,7 @@
 ---
 title: Build a Cartoon in 6 Steps
 date: 2019-05-30
-author: Leslie
+author: "Leslie Carrier"
 summary: "Check out my cartoon-making process!"
 tags: ["art","cartooning","drawing"] 
 categories: ["art"]

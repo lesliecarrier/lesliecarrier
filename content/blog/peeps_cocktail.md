@@ -1,7 +1,7 @@
 ---
 title: Peeps Juice Cocktail
 date: 2019-04-20
-author: Leslie
+author: Leslie Carrier
 summary: "Peeps season continues with a much needed respite for those stressful holiday times!"
 tags: ["peeps","candy","cocktail", "peeps cocktail"] 
 categories: ["fun"]

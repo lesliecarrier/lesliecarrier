@@ -1,7 +1,7 @@
 ---
 title: My Top 5 Drawing Tools
 date: 2019-05-14
-author: Leslie
+author: "Leslie Carrier"
 summary: "Check out my top 5 favorite tools for creating new cartoons"
 tags: ["art","cartooning","art supplies"] 
 categories: ["art"]
