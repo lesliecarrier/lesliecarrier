@@ -13,7 +13,7 @@ I wanted to get this one in before the holiday because we can all appreciate a p
 Anyway, to help give that ham an extra squeak to the slice or to grant you the false confidence that you can decorate a lamb cake worthy of a Pinterest board, check out this fun Peeps cocktail recipe for some inspiration: 
 
 
-<img src="https://static.ostrichzero.com/images/blog/peeps_cocktail/peepswebsite.jpg" class="img-responsive img-centered" alt="Peeps Cocktail">
+<img src="https://lesliecarrier.com/images/blog/peeps_cocktail/peepswebsite.jpg" class="img-responsive img-centered" alt="Peeps Cocktail">
 ##### *This cocktail definitely looks promising...what could possibly go wrong? Image and recipe courtesy of marshmallowpeeps.com*
 
 ### INGREDIENTS:
@@ -46,7 +46,7 @@ Triple Sec: a common staple of many vodka-based drinks, you can’t go too wrong
 
 You probably figured out by now that the Peep is a garnish and not an ingredient. I’m okay with that. Plus you will need the Peep garnish to get you through this cocktail and help remind you that you’re drinking Peeps juice.
 
-<img src="https://static.ostrichzero.com/images/blog/peeps_cocktail/PeepsCocktail1.jpg" class="img-responsive img-centered" alt="Peeps Cocktail">
+<img src="https://lesliecarrier.com/images/blog/peeps_cocktail/PeepsCocktail1.jpg" class="img-responsive img-centered" alt="Peeps Cocktail">
 ##### *While aesthetically pleasing, this will not distract me from experiencing how “meh” it tastes.*
 
 So what’s the verdict of this cocktail? Well…long story short, my friend and I didn’t finish it. We dumped it immediately and the rosé faithfully waited for us in the fridge as if to say: “I told you so.”
@@ -55,7 +55,7 @@ The cocktail turned out to be a weak watery milkshake martini. We actually enjoy
 
 The cocktail won some bonus points for looking like a fun $17 cocktail you get in those trendy sugar lounge places, but I just didn’t quite capture the flavors correctly. I was expecting something more like an espresso martini without the espresso.
 
-<img src="https://static.ostrichzero.com/images/blog/peeps_cocktail/PeepsChocktail2.jpg" class="img-responsive img-centered" alt="Peeps Cocktail">
+<img src="https://lesliecarrier.com/images/blog/peeps_cocktail/PeepsChocktail2.jpg" class="img-responsive img-centered" alt="Peeps Cocktail">
 ##### *Here we are oblivious to the future disappointment of this cocktail.*
 
 Possible adjustments for next time:

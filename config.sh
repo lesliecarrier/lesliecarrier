@@ -1,1 +1,1 @@
-export hugo_gallery_domain="static.ostrichzero.com"
+export hugo_gallery_domain="lesliecarrier.com"

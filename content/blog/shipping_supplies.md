@@ -11,7 +11,7 @@ Have you ever been in a bind when it came to selecting materials for shipping? I
 
 ### Rigid Mailers
 
-<img src="https://static.ostrichzero.com/images/blog/shipping_supplies/envelopes.jpg" class="img-responsive img-centered" alt="Shipping envelopes">
+<img src="https://lesliecarrier.com/images/blog/shipping_supplies/envelopes.jpg" class="img-responsive img-centered" alt="Shipping envelopes">
 
 Uline is my go-to supplier for most of my shipping products. Their shipping and handling costs are a bit pricey, but my order arrives fast (1-2 day shipping). Alternatively, you can opt in for store pickup if you live near one of their warehouses. I researched products similar to Uline’s rigid mailers on Amazon, but after comparing products and prices, it seems that Uline offers the best deal for both quantity and quality. These rigid mailers are also convenient with the self-adhesive flap and pull-tab tear strip.
 
@@ -26,13 +26,13 @@ Purchase rigid mailers in a variety of sizes <a href="https://www.uline.com/BL_1
 
 ### Do Not Bend Labels
 
-<img src="https://static.ostrichzero.com/images/blog/shipping_supplies/donotbend.jpg" class="img-responsive img-centered" alt="Envelopes and Do Not Bend labels">
+<img src="https://lesliecarrier.com/images/blog/shipping_supplies/donotbend.jpg" class="img-responsive img-centered" alt="Envelopes and Do Not Bend labels">
 
 These DO NOT BEND fluorescent-colored labels come in a roll ordered from Uline. I apply these to packages when I ship out coloring books and art prints. It’s not absolutely necessary to have these, but it really helps look like you put in the extra effort to display care in your shipping. Let’s face it, a package can get bent or damaged regardless of what you place on the package, but at least it looks better on your end because you at least tried to prevent it. You can find these labels in any shipping store or on Amazon.
 
 ### ClearBags Sleeves and Bags
 
-<img src="https://static.ostrichzero.com/images/blog/shipping_supplies/clearbags.jpg" class="img-responsive img-centered" alt="Clear Bags">
+<img src="https://lesliecarrier.com/images/blog/shipping_supplies/clearbags.jpg" class="img-responsive img-centered" alt="Clear Bags">
 
 ClearBags has great deals and vast selection on all of your clear bag needs! I use a variety of self-adhesive sleeves for my art prints, coloring books, and greeting cards. I use a non sealable sleeve to pack my sticker and magnet orders. Remember when you (or the same group of lucky students whose parents ALWAYS ordered them new books every month) used to get book orders from the Scholastic catalog in elementary school and the new books were delivered in a clear plastic bag? Well, I get to recreate that same fun feeling when I pack my coloring books in those similar sleeves! Of course, the plastic sleeves also helps protect your products during shipping, so that's always a plus.
 
@@ -40,7 +40,7 @@ Shop for clear plastic sleeves, bags, etc. <a href="https://www.clearbags.com" t
 
 ### Stationery
 
-<img src="https://static.ostrichzero.com/images/blog/shipping_supplies/stationery.jpg" class="img-responsive img-centered" alt="Stationery">
+<img src="https://lesliecarrier.com/images/blog/shipping_supplies/stationery.jpg" class="img-responsive img-centered" alt="Stationery">
 
 One of the benefits of selling on Etsy (or if you run your own online store) is that you package everything yourself and can include any personal touches with each order. I designed my own Thank You stationery and use it for hand-written notes. Because my printer can't be trusted, I get these printed and cut at Office Depot.
 
