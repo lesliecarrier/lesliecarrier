@@ -1,7 +1,7 @@
 {{ "<!-- Portfolio Modals -->" | safeHTML }}
 {{ range .Site.Data.projects_illustrations }}
 <div class="portfolio-modal modal fade" id="portfolioModal_illustrations{{ .modalID }}" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
+    <div class="modal-content" tabindex="-1">
         <div class="close-modal" data-dismiss="modal">
             <div class="lr">
                 <div class="rl">

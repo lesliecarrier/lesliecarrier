@@ -103,7 +103,7 @@ theme = "hugo-freelancer-theme"
 
 
     [params.footer]
-        copyright = "©2019 Leslie Carrier Art LLC"
+        copyright = "©2020 Leslie Carrier Art LLC"
 
         [params.footer.location]
             title = ""
