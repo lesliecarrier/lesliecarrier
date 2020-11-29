@@ -6,6 +6,7 @@
         <div class="container blog-post">
             <div class="row">                
                 <div class="col-lg-8 col-lg-offset-2 text-left">
+                    <a href="/blog/"><img src="{{ .Params.thumbnail }}" class="img-responsive img-centered" alt="Blog banner"/></a>
                     <h2>{{.Title}}</h2>
                 </div>
             </div>
@@ -13,14 +14,13 @@
             <div class="article-list">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2 text-left">
-
                         {{ if (isset .Params "noshowdate")  }}
                         {{ else }}
                             <div class="post-date">                               
                                 Posted on {{ dateFormat "January 2, 2006" .Date }} <br />
                                 By {{ markdownify .Params.Author }}                           
                             </div>
-                        {{ end }}
+                        {{ end }} 
                         {{ markdownify .Content }}
 
                         <!-- Prev/Next post buttons -->

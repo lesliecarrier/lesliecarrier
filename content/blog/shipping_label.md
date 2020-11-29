@@ -5,6 +5,7 @@ author: Leslie Carrier
 summary: "Tired of leaving it up to fate of whether or not you properly stick a self adhesive shipping label? Check out my solution here!"
 tags: ["shipping label","shipping","etsy","packaging"] 
 categories: ["etsy"]
+thumbnail: "https://lesliecarrier.com/images/blog/shipping_label/ShippingLabelBanner.jpg"
 ---
 
 This is something we may not think about until we actually have to do it: placing a self adhesive shipping label to an envelope or package. Sounds easy enough, right? Well, much like Valerie Bertinelli’s ongoing battle with plastic wrap, I face the same struggle once I remove the label from the backing. The sticky label pretty much flails all over the place and it’s left up to fate whether it ends up on the envelope with a million creases or in an unpredictable 35 degree angle.

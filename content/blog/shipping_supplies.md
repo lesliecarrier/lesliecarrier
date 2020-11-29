@@ -5,6 +5,7 @@ author: Leslie Carrier
 summary: "Check out my recommendations of supplies I love to use when shipping from my Etsy store!"
 tags: ["shipping label","shipping","etsy","packaging","favorites", "shipping supplies"] 
 categories: ["etsy"]
+thumbnail: "https://lesliecarrier.com/images/blog/shipping_supplies/ShippingMaterialsBanner.jpg"
 ---
 
 Have you ever been in a bind when it came to selecting materials for shipping? I specifically ship paper products such as prints, stickers and cards that require packaging to prevent bending during shipping, so please note that this list is more biased towards shipping those materials. I have been running my <a href="https://www.etsy.com/shop/lesliecarrierart" target="_blank" style="color:#ee4280">Etsy</a> store for a little over a year now and I found that the following shipping supplies have worked well for me so far:

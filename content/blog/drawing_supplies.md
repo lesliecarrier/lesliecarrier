@@ -5,6 +5,7 @@ author: "Leslie Carrier"
 summary: "Check out my top 5 favorite tools for creating new cartoons"
 tags: ["art","cartooning","art supplies"] 
 categories: ["art"]
+thumbnail: "https://lesliecarrier.com/images/blog/drawing_supplies/DrawingSuppliesBanner.jpg"
 ---
 
 When I draw a new cartoon, I use the following basic tools: good paper, pencil, kneaded eraser, ink, and fine brushes. Sure, these are old school drawing tools, but in my own personal preference, I prefer drawing by hand rather than using a tablet. When a drawing is all inked, I import it in the computer and digitally color it.

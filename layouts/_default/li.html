@@ -1,12 +1,13 @@
 <article>
-<h1 class="li-h1"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+<a href="{{ .Permalink }}"><img src="{{ .Params.thumbnail }}" class="img-responsive img-centered"/></a>
+<h1 class="li-h1" style="margin-top:0px;"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
 <div class="clearfix">
     <div class="post-date text-left" style="padding-bottom:5px;">
         Posted on 
         {{ dateFormat "January 2, 2006" .Date }}
     </div>
-    <p class="text-left">
 
+    <p class="text-left">
       {{ if (isset .Params "summary") }}
         {{ markdownify .Params.Summary }}
       {{ else }}

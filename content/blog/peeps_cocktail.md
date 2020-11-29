@@ -5,6 +5,7 @@ author: Leslie Carrier
 summary: "Peeps season continues with a much needed respite for those stressful holiday times!"
 tags: ["peeps","candy","cocktail", "peeps cocktail"] 
 categories: ["fun"]
+thumbnail: "https://lesliecarrier.com/images/blog/peeps_cocktail/PeepsJuiceCocktailBanner.jpg"
 ---
 
 

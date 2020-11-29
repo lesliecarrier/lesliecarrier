@@ -5,6 +5,7 @@ author: "Leslie Carrier"
 summary: "An easy way to create your own custom Photoshop pattern in just a few steps!"
 tags: ["art","cartooning","drawing","Photoshop"] 
 categories: ["art"]
+thumbnail: "https://lesliecarrier.com/images/blog/pattern_photoshop/PeepsPattern_Banner.jpg"
 ---
 
 I had enough of failing to eagle-eye perfectly-spaced, seamless, and interesting patterns by hand in Photoshop, so I decided to check if there’s a better way and sure enough, there is! The Offset Tool is critical to making perfect seamless patterns in Photoshop. It’s one of those handy tools I probably learned back in Photoshop 101, but of course never thought of it again until a few years later- but seriously, take Adobe classes if you can, they are game-changers!! 
@@ -13,7 +14,7 @@ I came across <a href="https://www.youtube.com/watch?v=uB0IG2x2wPc" target="_bla
 
 I wrote some notes for myself based off of my experience with Cristina’s tutorial and shared them below for reference. I decided to go with a Peeps-inspired pattern because Peeps are a pretty chaotic cursed energy, so I figured I’d attempt to get them looking orderly for “artistic contrast.”
 
-<img src="https://lesliecarrier.com/images/blog/pattern_photoshop/PeepsIndividual.png" class="img-responsive img-centered" alt="Peep">
+<img src="https://lesliecarrier.com/images/blog/pattern_photoshop/PeepsIndividual.png" class="img-responsive img-centered" alt="Peeps">
 
 ## How to make a seamless pattern in Photoshop
 

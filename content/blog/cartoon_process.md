@@ -5,6 +5,7 @@ author: "Leslie Carrier"
 summary: "Check out my cartoon-making process!"
 tags: ["art","cartooning","drawing"] 
 categories: ["art"]
+thumbnail: "https://lesliecarrier.com/images/blog/cartoon_process/CartoonProcessBanner.jpg"
 ---
 
 Making a new cartoon for me involves a combination of both traditional and digital art techniques. It starts off with the classic pencil on paper drawing, inking by hand, then followed by coloring digitally. I'll step through the process of creating this Real Housewives of Orange County cartoon:
