@@ -1,13 +1,16 @@
 <article>
-<a href="{{ .Permalink }}"><img src="{{ .Params.thumbnail }}" class="img-responsive img-centered"/></a>
-<h1 class="li-h1" style="margin-top:0px;"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+
+<div style="padding-top:20px;">
+    <a href="{{ .Permalink }}"><img src="{{ .Params.thumbnail }}" class="img-responsive img-centered"/></a>
+</div>
+    <h1 class="li-h1" style="margin-top:0px;"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
 <div class="clearfix">
     <div class="post-date text-left" style="padding-bottom:5px;">
         Posted on 
         {{ dateFormat "January 2, 2006" .Date }}
     </div>
 
-    <p class="text-left">
+    <p class="text-left" style="margin-bottom:0px; padding-bottom:0px;">
       {{ if (isset .Params "summary") }}
         {{ markdownify .Params.Summary }}
       {{ else }}
@@ -17,7 +20,7 @@
     </p>
 </div>
 
-<div class="read-more-container">
+<div class="read-more-container" style="padding-top:0px;margin-top:5px;">
     <a class="btn btn-primary" href="{{ .Permalink }}">
 
     <div>
@@ -25,4 +28,5 @@
     </div>
     </a>
 </div>
+
 </article>
