@@ -103,7 +103,7 @@ theme = "hugo-freelancer-theme"
 
 
     [params.footer]
-        copyright = "©2020 Leslie Carrier Art LLC"
+        copyright = "©2021 Leslie Carrier Art LLC"
 
         [params.footer.location]
             title = ""
@@ -118,10 +118,6 @@ theme = "hugo-freelancer-theme"
             [[params.footer.social.networks]]
                 icon = "fa-instagram"
                 link = "//instagram.com/lesliecarrierart"
-
-            [[params.footer.social.networks]]
-                icon = "fa-facebook"
-                link = "//facebook.com/lesliecarrierart"
 
             [[params.footer.social.networks]]
                 icon = "fa-twitter"
