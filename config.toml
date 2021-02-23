@@ -70,7 +70,7 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "I'm a graphic designer with a background in software engineering. I've always had a passion for cartooning which I often express through drawing folks from reality TV shows. Thanks for visiting!"
+        left = "Hi, my name is Leslie and I’m a graphic designer and artist based out of Northern California! <br />I enjoy illustrating in traditional and digital media that include painting, ink, and color pencil. I find inspiration in subjects ranging from cartoons, animals, food, and even ridiculous puns! As an artist, I strive to create fun, silly, and exciting compositions and deliver them in the form of comics, coloring books, greeting cards, stickers, and/or prints."
         right = '<img src="img/carrier_website2.png" class="img-responsive img-centered" alt="Leslie Carrier">'
 
         #[params.about.button]
