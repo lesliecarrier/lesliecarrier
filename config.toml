@@ -38,7 +38,7 @@ theme = "hugo-freelancer-theme"
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
-        image = "profile.png"
+        image = "Profile_thumbnail_2021.jpg"
         name = "Leslie Carrier"
         subtitle = "Graphic Design • Illustration"
 
