@@ -5,7 +5,7 @@ author: Leslie Carrier
 summary: "Check out my recommendations of supplies I love to use when shipping from my Etsy store!"
 tags: ["shipping label","shipping","etsy","packaging","favorites", "shipping supplies"] 
 categories: ["etsy"]
-thumbnail: "https://lesliecarrier.com/images/blog/shipping_supplies/ShippingMaterialsBanner.jpg"
+thumbnail: "https://static.lesliecarrier.com/images/blog/shipping_supplies/ShippingMaterialsBanner.jpg"
 ---
 
 Have you ever been in a bind when it came to selecting materials for shipping? I specifically ship paper products such as prints, stickers and cards that require packaging to prevent bending during shipping, so please note that this list is more biased towards shipping those materials. I have been running my <a href="https://www.etsy.com/shop/lesliecarrierart" target="_blank" style="color:#ee4280">Etsy</a> store for a little over a year now and I found that the following shipping supplies have worked well for me so far:
@@ -33,7 +33,7 @@ These DO NOT BEND fluorescent-colored labels come in a roll ordered from Uline. 
 
 ### ClearBags Sleeves and Bags
 
-<img src="https://lesliecarrier.com/images/blog/shipping_supplies/clearbags.jpg" class="img-responsive img-centered" alt="Clear Bags">
+<img src="https://static.lesliecarrier.com/images/blog/shipping_supplies/clearbags.jpg" class="img-responsive img-centered" alt="Clear Bags">
 
 ClearBags has great deals and vast selection on all of your clear bag needs! I use a variety of self-adhesive sleeves for my art prints, coloring books, and greeting cards. I use a non sealable sleeve to pack my sticker and magnet orders. Remember when you (or the same group of lucky students whose parents ALWAYS ordered them new books every month) used to get book orders from the Scholastic catalog in elementary school and the new books were delivered in a clear plastic bag? Well, I get to recreate that same fun feeling when I pack my coloring books in those similar sleeves! Of course, the plastic sleeves also helps protect your products during shipping, so that's always a plus.
 
@@ -41,7 +41,7 @@ Shop for clear plastic sleeves, bags, etc. <a href="https://www.clearbags.com" t
 
 ### Stationery
 
-<img src="https://lesliecarrier.com/images/blog/shipping_supplies/stationery.jpg" class="img-responsive img-centered" alt="Stationery">
+<img src="https://static.lesliecarrier.com/images/blog/shipping_supplies/stationery.jpg" class="img-responsive img-centered" alt="Stationery">
 
 One of the benefits of selling on Etsy (or if you run your own online store) is that you package everything yourself and can include any personal touches with each order. I designed my own Thank You stationery and use it for hand-written notes. Because my printer can't be trusted, I get these printed and cut at Office Depot.
 
