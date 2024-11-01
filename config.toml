@@ -117,7 +117,7 @@ theme = "hugo-freelancer-theme"
             # CSS class.
             [[params.footer.social.networks]]
                 icon = "fa-instagram"
-                link = "//instagram.com/lesliecarrierart"
+                link = "//instagram.com/happyhannahartshop"
 
             [[params.footer.social.networks]]
                 icon = "fa-twitter"
