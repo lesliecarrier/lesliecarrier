@@ -1,11 +1,12 @@
 # Site settings
 baseurl = "https://www.lesliecarrier.com/"
-defaultContentLanguage = ["en"]
+defaultContentLanguage = "en"
 title = "Leslie Carrier"
 theme = "hugo-freelancer-theme"
 
-[markupHead]
-  unsafe = true
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [params]
 
