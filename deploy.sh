@@ -10,10 +10,10 @@ fi
 echo "Uploading to Domain $hugo_gallery_domain"
 
 echo "IMAGES"
-if command -v s3cmd >/dev/null; then
-    s3cmd sync public/ s3://$hugo_gallery_domain/
+if command -v aws >/dev/null; then
+    aws s3 sync public/ s3://$hugo_gallery_domain/ --delete
 else
-    echo "Warning: s3cmd not found, skipping image sync."
+    echo "Warning: aws CLI not found, skipping image sync."
 fi
 
 if command -v aws >/dev/null; then
