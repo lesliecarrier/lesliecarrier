@@ -1,5 +1,5 @@
 #!/bin/sh
-source config.sh
+source ./config.sh
 git diff-index --quiet HEAD
 
 if [ "$hugo_gallery_domain" == "" ]; then
