@@ -1,8 +1,11 @@
 # Site settings
 baseurl = "https://www.lesliecarrier.com/"
-languageCode = "en-us"
+defaultContentLanguage = ["en"]
 title = "Leslie Carrier"
 theme = "hugo-freelancer-theme"
+
+[markupHead]
+  unsafe = true
 
 [params]
 
@@ -15,8 +18,8 @@ theme = "hugo-freelancer-theme"
     description = "Leslie Carrier's portfolio"
 
     # Since this template is static, the contact form uses www.formspree.io as a
-    # proxy. The form makes a POST request to their servers to send the actual
-    # email. Visitors can send up to a 1000 emails each month for free.
+    # proxy. The form makes a POST to their servers to send the actual
+    # email. Visitors can send up to 1000 emails each month for free.
     #
     # What you need to do for the setup?
     #
@@ -71,7 +74,7 @@ theme = "hugo-freelancer-theme"
         title = "About"
         # The about text is splitted into a left and right column
         right = "Hi, my name is Leslie and I’m a graphic designer and artist based out of Northern California! <br />I enjoy illustrating in traditional and digital media that include painting, ink, and color pencil. I find inspiration in subjects ranging from cartoons, animals, food, and ridiculous puns!"
-        left = '<img src="img/Profile_thumbnail_2021.jpg" style="border-radius: 50%; max-height:275px;" class="img-responsive img-centered" alt="Leslie Carrier">'
+        left = '<img src="https://static.lesliecarrier.com/img/Profile_thumbnail_2021.jpg" style="border-radius: 50%; max-height:275px;" class="img-responsive img-centered" alt="Leslie Carrier">'
 
         #[params.about.button]
             #text = "Download theme"
